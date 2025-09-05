@@ -21,7 +21,7 @@ This project performs a comprehensive **Exploratory Data Analysis (EDA)** on mar
 
 ## 🧩 Project Structure
 ```bash
-Marketing_Campaign_EDA_and_Insights/
+Marketing-Campaign-Analytics-Exploratory-Data-Analysis/
 │
 ├── marketing_data/        # Raw and processed datasets
 ├── notebooks/             # Jupyter notebooks for analysis
