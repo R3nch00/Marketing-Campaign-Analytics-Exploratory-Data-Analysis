@@ -20,6 +20,7 @@ This project performs a comprehensive **Exploratory Data Analysis (EDA)** on mar
 5. Provide **actionable recommendations** for marketing optimization.
 
 ## 🧩 Project Structure
+```bash
 Marketing_Campaign_EDA_and_Insights/
 │
 ├── marketing_data/        # Raw and processed datasets
@@ -27,7 +28,7 @@ Marketing_Campaign_EDA_and_Insights/
 ├── images/                # Plots and visualizations
 ├── README.md               # Project documentation
 └── requirements.txt        # Python dependencies
-
+```
 
 ---
 
@@ -69,9 +70,9 @@ Marketing_Campaign_EDA_and_Insights/
    ```
 
 ## 🔮 Future Work
-. Build predictive models for campaign acceptance.
-. Deploy an interactive dashboard (e.g., Streamlit, Dash).
-. Integrate external datasets for richer customer profiling.
+. Build predictive models for campaign acceptance
+. Deploy an interactive dashboard (e.g., Streamlit, Dash)
+. Integrate external datasets for richer customer profiling
 
 ## 🤝 Contributing
 . Contributions are welcome!
